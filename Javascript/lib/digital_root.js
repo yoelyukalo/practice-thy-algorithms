@@ -4,6 +4,6 @@
 // Keep repeating until there is only one digit in the result, called the "digital root".
 // Do not use string conversion within your method.
 function digitalRoot(number) {
-
+    // JUMPOUTTHEMUFUCCINHOUSE
 }
 module.exports = digitalRoot;

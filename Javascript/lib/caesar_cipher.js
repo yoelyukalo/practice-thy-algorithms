@@ -2,6 +2,6 @@
 // Assume lowercase and no punctuation.
 // Preserve spaces.
 function caesarCipher(plainText, shift) {
-
+    
 }
 module.exports = caesarCipher;
