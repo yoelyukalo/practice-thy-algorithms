@@ -4,7 +4,7 @@
 # The result is called a 'digital root'.
 # Do not use string conversion within your method.
 def digital_root(number)
-
+    str = 'i have no idea how to do this shit'
 end
 
 # Write a function that takes a message and an increment amount.
