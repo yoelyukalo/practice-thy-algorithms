@@ -18,7 +18,11 @@ end
 # Write a function that takes two strings.
 # Return the longest common substring.
 def common_substrings(string_one, string_two)
-
+    if string_one.length > string_two.length
+        print string_one
+    else
+        print string_two
+    end
 end
 
 # Write a function that takes an array of integers and returns their sum.
